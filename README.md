@@ -1,2 +1,2 @@
 # intellectual-notetaking
-A notetaking Chrome extention
+A notetaking webapp!
